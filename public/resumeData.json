@@ -3,7 +3,7 @@
     "name":"Kala Elam",
     "occupation":"Full Stack Web Developer and Yoga Instructor",
     "description":"Exciting. Wonderful",
-    "image":"profilepic.jpg",
+    "image":"myImage copy.jpg",
     "bio":"This is the story all about how",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
@@ -152,7 +152,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"The most wonderful, brilliant, stunningly gorgeous, humble, and generous humans.",
+        "text":"The most wonderful, brilliant, stunningly gorgeous, humble, and generous human.",
         "user":"Kala Elam"
       },
       {
