@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Kala Elam",
+    "occupation":"Full Stack Web Developer and Yoga Instructor,",
+    "description":"with an eye for beauty and love for life.  ",
+    "image":"myImage copy.jpg",
+    "bio":"Web developer with a certificate from SMU in full stack web technologies including JavaScript, CSS, React, and responsive web design. Bachelor's degree in communication science disorders from TCU. A passion for creativity and an eye for beauty from years of traveling the world, experiencing other cultures and technologies. Experience working with diverse teams in a variety of settings",
+    "email": "kalahelam@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Dallas,",
+      "state":"Texas",
+      "zip": ""
+    },
+    "website": "http://www.kalaelam.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kala-elam-404854138/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/kalaflower13/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/speechgirl1505",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Southern Methodist University",
+        "degree":"Full Stack Web Development",
+        "graduated":"December 2019",
+        "description":"Certification"
+      },
+      {
+        "school":"Texas Christian university",
+        "degree":"Speech Pathology",
+        "graduated":"May 2009",
+        "description":"Bachelors Degree"
+      }
+    ],
+    "work":[
+      {
+        "company":"Omni Air International",
+        "title":"Flight Attendant ",
+        "years":"July 2017 - Present",
+        "description":""
+      },
+      {
+        "company":"Lilalove Yoga",
+        "title":"Owner/Instructor",
+        "years":"March 2012 - Present",
+        "description":""
+      },
+      {
+        "company":"Countryside Therapy",
+        "title":"SLPA",
+        "years":"May 2009 - January 2015 & June 2015 - July 2017",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"45%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"The most wonderful, brilliant, stunningly gorgeous, humble, and generous human.",
+        "user":"Kala Elam"
+      },
+      {
+        "text":"I could have had worse.",
+        "user":"Wanda Elam....Kala's mom"
+      }
+    ]
+  }
+}
