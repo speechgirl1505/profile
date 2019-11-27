@@ -1,12 +1,11 @@
 {
   "main": {
     "name":"Kala Elam",
-    "occupation":"Full Stack Web Developer and Yoga Instructor",
-    "description":"Exciting. Wonderful",
+    "occupation":"Full Stack Web Developer and Yoga Instructor,",
+    "description":"with an eye for beauty and love for life.  ",
     "image":"myImage copy.jpg",
-    "bio":"This is the story all about how",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"Web developer with a certificate from SMU in full stack web technologies including JavaScript, CSS, React, and responsive web design. Bachelor's degree in communication science disorders from TCU. A passion for creativity and an eye for beauty from years of traveling the world, experiencing other cultures and technologies. Experience working with diverse teams in a variety of settings",
+    "email": "kalahelam@gmail.com",
     "phone": "",
     "address":{
       "street":"",
@@ -15,47 +14,27 @@
       "zip": ""
     },
     "website": "http://www.kalaelam.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/kala-elam-404854138/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/kalaflower13/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/speechgirl1505",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Southern Methodist University",
@@ -72,26 +51,32 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Omni Air International",
+        "title":"Flight Attendant ",
+        "years":"July 2017 - Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Lilalove Yoga",
+        "title":"Owner/Instructor",
+        "years":"March 2012 - Present",
+        "description":""
+      },
+      {
+        "company":"Countryside Therapy",
+        "title":"SLPA",
+        "years":"May 2009 - January 2015 & June 2015 - July 2017",
+        "description":""
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"MySQL",
-        "level":"55%"
+        "level":"45%"
       },
       {
         "name":"ReactJs",
@@ -106,8 +91,8 @@
         "level":"80%"
       },
       {
-        "name":"",
-        "level":"50%"
+        "name":"Node.js",
+        "level":"70%"
       },
       {
         "name":"MongoDB",
