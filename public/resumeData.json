@@ -134,15 +134,17 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "yoga":{
+    "yoga":[
       {
         "text":"The most wonderful, brilliant, stunningly gorgeous, humble, and generous human.",
-        "user":"Kala Elam"
+        "user":"Kala Elam",
+        "image":"warrior.jpg"
       },
       {
         "text":"I could have had worse.",
-        "user":"Wanda Elam....Kala's mom"
+        "user":"Wanda Elam....Kala's mom",
+        "image":"love.jpg"
       }
     ]
   }
