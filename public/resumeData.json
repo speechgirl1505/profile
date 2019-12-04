@@ -2,7 +2,7 @@
   "main": {
     "name":"Kala Elam",
     "occupation":"Full Stack Web Developer and Yoga Instructor,",
-    "description":"with an eye for beauty and love for life.  ",
+    "description":"with an eye for beauty and love for life  ",
     "image":"myImage copy.jpg",
     "bio":"Web developer with a certificate from SMU in full stack web technologies including JavaScript, CSS, React, and responsive web design. Bachelor's degree in communication science disorders from TCU. A passion for creativity and an eye for beauty from years of traveling the world, experiencing other cultures and technologies. Experience working with diverse teams in a variety of settings",
     "email": "kalahelam@gmail.com",
@@ -14,7 +14,7 @@
       "zip": ""
     },
     "website": "http://www.kalaelam.com",
-    "resumedownload":"",
+    "resumedownload":"https://docs.google.com/document/d/1JkJmdqiIqUDAkmE5Q2ccar11XnDM3vwS-eN7HDjDpzM/edit#heading=h.rfgvkg2ifhfd",
     "social":[
       {
         "name":"linkedin",
