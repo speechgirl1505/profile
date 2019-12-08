@@ -97,54 +97,51 @@
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"SomeRecipes",
+        "category":"A website I collaborated on to post and search for recipes",
+        "image":"SomeRecipes.png",
+        "url":"https://group-project-jtjdke.herokuapp.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Kollekt",
+        "category":"A website to store and view collections",
+        "image":"Kollekt.png",
+        "url":"https://kollekt-1.herokuapp.com/"
       }
     ]
   },
   "yoga":{
+    "yogamessage":"I found yoga in 2006 and thought it would be the easiest blow off class but little did I know it would become my life-line to sanity. In 2012 I signed up for teacher training. After months of joy sweat pulled muscles and zen I received my RYT-200hr in 2013 from Indra’s Grace. My classes are like mystery meat you never know what you are getting and you don’t ask. My goal in teaching and in life is that everyone takes more time to laugh and be silly.",
     "yoga":[
       {
-        "text":"The most wonderful, brilliant, stunningly gorgeous, humble, and generous human.",
-        "user":"Kala Elam",
-        "image":"warrior.jpg"
+        "title":"Hawaii Warrior",
+        "user":"Wanda Elam....Kala's mom",
+        "image":"hawaiiwarrior.jpg"
       },
       {
-        "text":"I could have had worse.",
+        "title":"Compass CherryBlossom",
         "user":"Wanda Elam....Kala's mom",
-        "image":"love.jpg"
+        "image":"compasscherry.jpg"
+      },
+      {
+        "title":"Ireland Wall Squat",
+        "user":"Wanda Elam....Kala's mom",
+        "image":"irelandwallsquat.jpg"
+      },
+      {
+        "title":"King Pigeon",
+        "user":"Wanda Elam....Kala's mom",
+        "image":"kingP.JPG"
       }
     ]
   }

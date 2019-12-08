@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Yoga from './Components/yoga';
-// import Portfolio from './Components/Portfolio';
+import Portfolio from './Components/Portfolio';
 
 class App extends Component {
 
@@ -48,7 +48,7 @@ class App extends Component {
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
-        {/* <Portfolio data={this.state.resumeData.portfolio}/> */}
+        <Portfolio data={this.state.resumeData.portfolio}/>
         <Yoga data={this.state.resumeData.yoga}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
