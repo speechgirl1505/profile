@@ -71,36 +71,13 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"70%"
+        "name":"Git * HTML5 * CSS * JavaScript"
       },
       {
-        "name":"MySQL",
-        "level":"45%"
+        "name":"MySQL * Bootstrap * jQuery * Firebase"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"Node.js",
-        "level":"70%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"80%"
+        "name":"MERN Stack- MongoDB / Mongoose * Express * React * Node"
       }
     ]
   },
