@@ -43,7 +43,7 @@
         "description":"Certification"
       },
       {
-        "school":"Texas Christian university",
+        "school":"Texas Christian University",
         "degree":"Speech Pathology",
         "graduated":"May 2009",
         "description":"Bachelors Degree"
@@ -117,6 +117,18 @@
         "category":"A website to store and view collections",
         "image":"Kollekt.png",
         "url":"https://kollekt-1.herokuapp.com/"
+      },
+      {
+        "title":"Train Scheduler",
+        "category":"A train scheduler created with firebase.",
+        "image":"Train Scheduler.png"
+        
+      },
+      {
+        "title":"Path to Peak",
+        "category":"App that shows National Parks and top trails in parks.",
+        "image":"Path to Peak.png"
+        
       }
     ]
   },

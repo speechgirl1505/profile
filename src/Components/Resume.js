@@ -16,18 +16,18 @@ class Resume extends Component {
           </div>
         );
       });
-      var work = this.props.data.work.map(function(work) {
-        return (
-          <div key={work.company}>
-            <h3>{work.company}</h3>
-            <p className="info">
-              {work.title}
-              <span>&bull;</span> <em className="date">{work.years}</em>
-            </p>
-            <p>{work.description}</p>
-          </div>
-        );
-      });
+      // var work = this.props.data.work.map(function(work) {
+      //   return (
+      //     <div key={work.company}>
+      //       <h3>{work.company}</h3>
+      //       <p className="info">
+      //         {work.title}
+      //         <span>&bull;</span> <em className="date">{work.years}</em>
+      //       </p>
+      //       <p>{work.description}</p>
+      //     </div>
+      //   );
+      // });
       var skills = this.props.data.skills.map(function(skills) {
         // var className = "bar-expand " + skills.name.toLowerCase();
         return (
@@ -58,7 +58,7 @@ class Resume extends Component {
             </div>
           </div>
         </div>
-
+{/* 
         <div className="row work">
           <div className="three columns header-col">
             <h1>
@@ -67,7 +67,7 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">{work}</div>
-        </div>
+        </div> */}
 
         <div className="row skill">
           <div className="three columns header-col">
