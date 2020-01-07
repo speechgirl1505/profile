@@ -22,11 +22,6 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/kalaflower13/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/speechgirl1505",
         "className":"fa fa-github"
