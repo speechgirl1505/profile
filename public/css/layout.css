@@ -500,16 +500,27 @@ ul#nav li.current a { color: rgb(119, 89, 131); }
    font-size: 18px;
    line-height: 30px;
    text-align: center;
+   align-items: center;
 
-   position: absolute;
-   top: 110%;
+   position: relative;
+   /* top: 110%; */
    left: 50%;
    margin-left: -15px;
-   margin-top: -15px;
+   /* margin-top: -15px; */
 }
 
 .drop-icon:hover {
    color: rgb(119, 89, 131);
+}
+
+.portBtn {
+   background-color: #444;
+   padding: 10px;
+   margin-right: 8px;
+}
+
+.portBtn:hover {
+   background-color: rgb(119, 89, 131);
 }
 
 .portfolio-item .item-wrap img {

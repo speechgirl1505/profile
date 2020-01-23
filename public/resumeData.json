@@ -19,12 +19,12 @@
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/kala-elam-404854138/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"https://github.com/speechgirl1505",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
       }
     ]
   },
@@ -66,10 +66,10 @@
     ],
     "skills":[
       {
-        "name":"Git * HTML5 * CSS * JavaScript"
+        "name":"Git * HTML5 * CSS * JavaScript * Sass"
       },
       {
-        "name":"MySQL * Bootstrap * jQuery * Firebase"
+        "name":"MySQL * Bootstrap * jQuery * Firebase * Gatsby"
       },
       {
         "name":"MERN Stack- MongoDB / Mongoose * Express * React * Node"
@@ -80,11 +80,11 @@
     "projects": [
       {
         "title":"SomeRecipes",
-        "category":"A website I collaborated on to post and search for recipes",
+        "category":"A app to post and search for recipes",
         "image":"SomeRecipes.png",
         "url":"https://group-project-jtjdke.herokuapp.com",
         "github": "https://github.com/speechgirl1505/Group2-Project",
-        "technologies": "Node.js"
+        "technologies": "Node.js, Handlebars, Express.js, MySQL, Sequelize, Bootstrap"
       },
       {
         "title":"Kollekt",
@@ -92,22 +92,24 @@
         "image":"Kollekt.png",
         "url":"https://kollekt-1.herokuapp.com/",
         "github": "https://github.com/speechgirl1505/After-Pres-Heroku",
-        "technologies": "Node.js"
+        "technologies": "Node.js, Bootstrap, AtlasDB, Mongoose,  "
       },
       {
         "title":"Train Scheduler",
         "category":"A train scheduler created with firebase.",
         "image":"Train Scheduler.png",
+        "url":"https://github.com/speechgirl1505/Train-Scheduler",
         "github": "https://github.com/speechgirl1505/Train-Scheduler",
-        "technologies": "Node.js"
+        "technologies": "Node.js, Firebase, Moment.js "
         
       },
       {
         "title":"Path to Peak",
-        "category":"App that shows National Parks and top trails in parks.",
+        "category":"App showing National Parks and top park trails.",
         "image":"Path to Peak.png", 
+        "url":"https://github.com/speechgirl1505/First-Group-Project",
         "github": "https://github.com/speechgirl1505/First-Group-Project",
-        "technologies": "Node.js"
+        "technologies": "JQuery, Javascript, Bootstrap, AJAX, National Parks API, Spotify API"
         
       }
     ]
