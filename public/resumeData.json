@@ -82,24 +82,32 @@
         "title":"SomeRecipes",
         "category":"A website I collaborated on to post and search for recipes",
         "image":"SomeRecipes.png",
-        "url":"https://group-project-jtjdke.herokuapp.com"
+        "url":"https://group-project-jtjdke.herokuapp.com",
+        "github": "https://github.com/speechgirl1505/Group2-Project",
+        "technologies": "Node.js"
       },
       {
         "title":"Kollekt",
         "category":"A website to store and view collections",
         "image":"Kollekt.png",
-        "url":"https://kollekt-1.herokuapp.com/"
+        "url":"https://kollekt-1.herokuapp.com/",
+        "github": "https://github.com/speechgirl1505/After-Pres-Heroku",
+        "technologies": "Node.js"
       },
       {
         "title":"Train Scheduler",
         "category":"A train scheduler created with firebase.",
-        "image":"Train Scheduler.png"
+        "image":"Train Scheduler.png",
+        "github": "https://github.com/speechgirl1505/Train-Scheduler",
+        "technologies": "Node.js"
         
       },
       {
         "title":"Path to Peak",
         "category":"App that shows National Parks and top trails in parks.",
-        "image":"Path to Peak.png"
+        "image":"Path to Peak.png", 
+        "github": "https://github.com/speechgirl1505/First-Group-Project",
+        "technologies": "Node.js"
         
       }
     ]

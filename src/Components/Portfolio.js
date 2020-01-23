@@ -19,6 +19,7 @@ class Portfolio extends Component {
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
+          <div className="drop-icon"><i class="fas fa-angle-down fa-3x"></i></div>
         </div>
       })
     }
@@ -35,6 +36,7 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
+            {/* drop down for more info on each project needs to be in here */}
           </div>
       </div>
    </section>

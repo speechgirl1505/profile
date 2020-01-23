@@ -491,6 +491,27 @@ ul#nav li.current a { color: rgb(119, 89, 131); }
    margin-left: -15px;
    margin-top: -15px;
 }
+
+.drop-icon {
+   display: block;
+   color: gray;
+   height: 30px;
+   width: 30px;
+   font-size: 18px;
+   line-height: 30px;
+   text-align: center;
+
+   position: absolute;
+   top: 110%;
+   left: 50%;
+   margin-left: -15px;
+   margin-top: -15px;
+}
+
+.drop-icon:hover {
+   color: rgb(119, 89, 131);
+}
+
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
